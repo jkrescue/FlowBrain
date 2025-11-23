@@ -1,0 +1,5 @@
+{
+  "name": "AeroGen: Multi-Agent Engineering Framework",
+  "description": "A multi-agent system for automotive design, integrating Styling, CAD, Meshing, and CFD simulation using the DrivAerNet++ dataset concept.",
+  "requestFramePermissions": []
+}
